@@ -1,0 +1,9 @@
+[submodule "eks/EksCore"]
+	path = eks/EksCore
+	url = https://github.com/jorj1988/eks-core.git
+[submodule "eks/EksBuild"]
+	path = eks/EksBuild
+	url = https://github.com/jorj1988/eks-build.git
+[submodule "shift/shift-core"]
+	path = shift/shift-core
+	url = https://github.com/jorj1988/shift-core.git
