@@ -6,7 +6,7 @@ Eks.SubModule {
 
   references: [
     "eks/EksCore/EksCore.qbs",
-    "shift/shift-core/ShiftCore.qbs",
-    "shift/shift-core/test/ShiftCoreTest.qbs",
+    "shift/shift-core/shift-core.qbs",
+    "shift/shift-core/test/test.qbs",
   ]
 }
